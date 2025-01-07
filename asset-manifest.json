@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ml-platform/static/css/main.e1ed3b72.css",
-    "main.js": "/ml-platform/static/js/main.237b1eac.js",
+    "main.css": "/ml-platform/static/css/main.b3b732cd.css",
+    "main.js": "/ml-platform/static/js/main.32549bfd.js",
     "static/js/453.f39ec6d9.chunk.js": "/ml-platform/static/js/453.f39ec6d9.chunk.js",
+    "static/media/ml-logo.jpeg": "/ml-platform/static/media/ml-logo.b621926e315b734e3bbf.jpeg",
     "index.html": "/ml-platform/index.html",
-    "main.e1ed3b72.css.map": "/ml-platform/static/css/main.e1ed3b72.css.map",
-    "main.237b1eac.js.map": "/ml-platform/static/js/main.237b1eac.js.map",
+    "main.b3b732cd.css.map": "/ml-platform/static/css/main.b3b732cd.css.map",
+    "main.32549bfd.js.map": "/ml-platform/static/js/main.32549bfd.js.map",
     "453.f39ec6d9.chunk.js.map": "/ml-platform/static/js/453.f39ec6d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ed3b72.css",
-    "static/js/main.237b1eac.js"
+    "static/css/main.b3b732cd.css",
+    "static/js/main.32549bfd.js"
   ]
 }
